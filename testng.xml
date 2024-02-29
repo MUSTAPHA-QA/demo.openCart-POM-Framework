@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Register account and Login Suite">
+
+	<listeners>
+		<listener
+			class-name="demo.opencart.utilities.ExtentReportManager" />
+	</listeners>
+
+	<test thread-count="1" name="HomeTest">
+		<classes>
+			<class name="demo.opencart.testCases.TC001_HomeTest" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test thread-count="1" name="RegisterAccountTest">
+		<classes>
+			<class name="demo.opencart.testCases.TC002_RegisterAccountTest" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test thread-count="1" name="LoginTest">
+		<classes>
+			<class name="demo.opencart.testCases.TC003_LoginTest" />
+		</classes>
+	</test> <!-- Test -->
+
+</suite> <!-- Suite -->

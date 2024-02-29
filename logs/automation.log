@@ -1,0 +1,70 @@
+09:24:47.865 [main] INFO  demo.opencart.testCases.TC001_HomeTest - Launching The Browser
+09:24:57.676 [main] INFO  demo.opencart.testCases.TC001_HomeTest - Navigating To The URL
+09:24:57.722 [main] INFO  demo.opencart.testCases.TC001_HomeTest - Starting test case: Home Test
+09:24:57.824 [main] INFO  demo.opencart.testCases.TC001_HomeTest - Clicked on the arrow next to my account
+09:25:00.090 [main] INFO  demo.opencart.testCases.TC001_HomeTest - Clicked Register
+09:25:00.090 [main] INFO  demo.opencart.testCases.TC001_HomeTest - HomeTest test case execution completed
+09:25:01.683 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Launching The Browser
+09:25:08.567 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Navigating To The URL
+09:25:09.329 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Starting test case: Register Account
+09:25:09.447 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Clicked on the arrow next to my account
+09:25:13.232 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Clicked Register
+09:25:13.241 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Validated register account page
+09:25:13.333 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Entered first name: musta
+09:25:13.404 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Entered last name: qa
+09:25:13.491 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Entered email: MboCmustaqa@gmail.com
+09:25:13.550 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Entered telephone: 94920
+09:25:13.614 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Entered password
+09:25:13.676 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Confirmed password
+09:25:13.733 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Clicked No for Newsletter
+09:25:13.791 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Clicked on Privacy Policy checkbox
+09:25:15.340 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Clicked Continue
+09:25:15.376 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Validated account created page
+09:25:16.000 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Clicked Continue
+09:25:16.003 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - RegisterAccount test case execution completed
+09:25:17.362 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Launching The Browser
+09:25:23.474 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Navigating To The URL
+09:25:23.506 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Starting test case: Login
+09:25:23.678 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Clicked on the arrow next to my account
+09:25:24.265 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Clicked Login
+09:25:24.273 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Validated login page
+09:25:24.379 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Entered email: SoWZmustaqa@gmail.com
+09:25:24.468 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Entered password
+09:25:26.088 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Clicked Login
+09:25:26.116 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Validated my account page
+09:25:26.117 [main] INFO  demo.opencart.testCases.TC003_LoginTest - LoginTest test case execution completed
+09:29:50.643 [main] INFO  demo.opencart.testCases.TC001_HomeTest - Launching The Browser
+09:29:58.866 [main] INFO  demo.opencart.testCases.TC001_HomeTest - Navigating To The URL
+09:29:58.912 [main] INFO  demo.opencart.testCases.TC001_HomeTest - Starting test case: Home Test
+09:29:59.045 [main] INFO  demo.opencart.testCases.TC001_HomeTest - Clicked on the arrow next to my account
+09:30:01.201 [main] INFO  demo.opencart.testCases.TC001_HomeTest - Clicked Register
+09:30:01.201 [main] INFO  demo.opencart.testCases.TC001_HomeTest - HomeTest test case execution completed
+09:30:02.769 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Launching The Browser
+09:30:09.933 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Navigating To The URL
+09:30:10.640 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Starting test case: Register Account
+09:30:10.695 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Clicked on the arrow next to my account
+09:30:12.452 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Clicked Register
+09:30:12.464 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Validated register account page
+09:30:12.586 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Entered first name: musta
+09:30:12.674 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Entered last name: qa
+09:30:12.749 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Entered email: bmTrmustaqa@gmail.com
+09:30:12.819 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Entered telephone: 94920
+09:30:12.889 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Entered password
+09:30:12.958 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Confirmed password
+09:30:13.035 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Clicked No for Newsletter
+09:30:13.107 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Clicked on Privacy Policy checkbox
+09:30:14.505 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Clicked Continue
+09:30:14.529 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Validated account created page
+09:30:15.117 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - Clicked Continue
+09:30:15.121 [main] INFO  demo.opencart.testCases.TC002_RegisterAccountTest - RegisterAccount test case execution completed
+09:30:16.390 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Launching The Browser
+09:30:24.250 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Navigating To The URL
+09:30:24.284 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Starting test case: Login
+09:30:24.441 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Clicked on the arrow next to my account
+09:30:25.534 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Clicked Login
+09:30:25.545 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Validated login page
+09:30:25.636 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Entered email: MboCmustaqa@gmail.com
+09:30:25.699 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Entered password
+09:30:26.832 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Clicked Login
+09:30:26.849 [main] INFO  demo.opencart.testCases.TC003_LoginTest - Validated my account page
+09:30:26.849 [main] INFO  demo.opencart.testCases.TC003_LoginTest - LoginTest test case execution completed
