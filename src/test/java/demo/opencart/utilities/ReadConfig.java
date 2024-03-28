@@ -12,7 +12,7 @@ public class ReadConfig {
 	public ReadConfig() {
 		
 		try {
-			FileInputStream fileInputStream = new FileInputStream("./src\\test\\resources\\config.properties");
+			FileInputStream fileInputStream = new FileInputStream("./src/test/resources/config.properties");
 			properties = new Properties();
 			properties.load(fileInputStream);
 		} catch(IOException e) {
@@ -46,7 +46,7 @@ public class ReadConfig {
 	
 	public void saveCapturedEmail() {
 		try {
-			FileOutputStream outputStream = new FileOutputStream("./src\\test\\resources\\config.properties");
+			FileOutputStream outputStream = new FileOutputStream("./src/test/resources/config.properties");
 			properties.store(outputStream, "captured random email during registration");
 		}catch(IOException e) {
 			e.printStackTrace();

@@ -22,10 +22,10 @@ public class BrowserFactory {
 		logger.info("Launching The Browser");
 		driver.manage().deleteAllCookies();
 		driver.manage().window().maximize();
-		driver.get(url);
-		logger.info("Navigating To The URL");
 		driver.manage().timeouts().pageLoadTimeout(60, TimeUnit.SECONDS);
-		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);		
+		driver.manage().timeouts().implicitlyWait(60, TimeUnit.SECONDS);
+		driver.get(url);
+		logger.info("Navigating To The URL");	
 	}
 	
 	@AfterClass
